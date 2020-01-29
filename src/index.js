@@ -1,4 +1,3 @@
-@import 'carbon-components/scss/globals/scss/styles.scss';
 import 'core-js/modules/es7.array.includes';
 import 'core-js/modules/es6.array.fill';
 import 'core-js/modules/es6.string.includes';
